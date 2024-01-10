@@ -1,0 +1,8 @@
+import streamlit as st
+#layout setting
+st.set_page_config(layout="wide")
+
+st.header('demo')
+
+st.info('''
+        ''')
